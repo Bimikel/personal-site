@@ -25,6 +25,8 @@ header {
   .content {
     width: 60%; /* Adjust this value as needed */
     padding-right: 200px;
+    position: relative;
+    top: -100px;
   }
 
   img {
