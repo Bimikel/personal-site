@@ -51,14 +51,18 @@ nav {
     background-color: #4d4848;
     padding: 10px;
     color: white;
+    width: 100%;
 }
 
 #copyright {
-    background-color: #4d4848;
     padding: 10px;
     width: 100%;
-    color: white;
+    background-color: white;
     text-align: center;
+}
+
+#copyright2 {
+    color: rgb(0, 0, 0);
 }
 
 nav ul {
