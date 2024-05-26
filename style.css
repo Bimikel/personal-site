@@ -11,6 +11,7 @@ body {
     font-size: 120%;
     background-color: #6f6c6c;
     color:white;
+    width: 20%;
 }
 
 #contactinfo {
@@ -44,7 +45,6 @@ h1 {
     margin: 0;
     color: #000000;
     text-align: center;
-    border-color:#000000;
 }
 
 .section2 {
@@ -61,7 +61,7 @@ h1 {
 
 /* Navigation styles */
 nav {
-    background-color: #ffffff;
+    background-color: #a19b9b;
     padding-top: 10px;
     padding-bottom: 10px;
     text-indent: 10px;
