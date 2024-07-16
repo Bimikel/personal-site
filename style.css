@@ -18,6 +18,29 @@ body {
     padding-top: 8%;
 }
 
+.container {
+    display: flex;
+}
+
+.index {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circleimage {
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+}
+
 .section1 {
     display: flex;
     padding-top: 5%;
